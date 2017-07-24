@@ -1,0 +1,19 @@
+1.name
+
+2.bagCapacity
+
+3.stone
+
+4.money
+
+5.life
+
+6.currentlife
+
+7.CardLeader number
+
+----------------- Player class い把计--------------------
+
+
+12计计丁戈玡计琌絪腹计单
+璶︽笲衡ㄤ狥﹁ㄌ酚单ㄓ笲衡

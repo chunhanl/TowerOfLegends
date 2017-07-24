@@ -1,0 +1,19 @@
+會用的到的元件
+private Stone[] stones;
+	陣列長度:30
+	
+	每個Stone裡面會用到的東西
+	data member
+		boolean isEliminate;  //是否被消除
+		int type;             //珠珠的種類
+		vec2 position;        //對格子的位置(放掉該回到哪)  當isEliminate == true時
+					珠珠不會回到原來的位置 且 不能控制 直到isEliminate回到true才會回去
+					且可以控制
+	method member
+		void changeType(int type)  //輸入一個int 就可以自動改變圖片跟屬性
+		void setEliminate(boolean b) //設定isEliminate的值
+		boolean isEliminateBool()  //取得isEliminate的值
+		void setLocation(x,y)      //設定位置(珠珠會直接跑過去)  ----> 以下都是JLabel自己原來有ㄉ
+		int getWidth()      	   //
+		int getHeight()            //
+				

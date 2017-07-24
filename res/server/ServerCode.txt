@@ -1,0 +1,25 @@
+@發送人 %動作 #動作下的資料
+---------------------------------------------------------------------------------------------------------------------------
+(Server to Client)
+
+@Server%BP#Waka   (BP:buildPlayer Waka:ClientAccount)   Server命令Client建立Player
+
+@Server%SPname#name   
+@Server%SPbagcap#value
+@Server%SPsetstone#value
+@Server%SPaddstone#value
+@Server%SPsetmoney#value
+@Server%SPaddmoney#value
+@Server%SPsetlife#value
+@Server%SPsetcurrentlife#value
+
+ps.至於Player個人卡片集 等卡片齊了我們再來想辦法 <3
+
+----------------------------------------------------------------------------------------------------------------------------
+(Client to Server)
+
+@Client%NP#name   (NP:newPlayer   name:ClientAccount)   Client告知Server建立新帳號
+
+@Waka%SAY#hello
+@Waka%ATTACK#100
+
