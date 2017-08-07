@@ -29,7 +29,6 @@ import javax.imageio.ImageIO;
 public class MyServer extends JPanel implements ActionListener
 {
 	private JFrame application;
-
 	private JTextField outgoing;     	//input area
 	private JLabel userNameLabel;   
 	private JLabel state; //state:people
