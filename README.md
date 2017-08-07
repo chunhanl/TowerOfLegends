@@ -6,7 +6,11 @@ The Client part is in the Other source folders
 To setup a server, extract the Server folder and the main function is in package MyServer =>CallMyServer.java
 The rules are defined in res/server/
 Screenshot of Server UI
-https://user-images.githubusercontent.com/18246639/29037193-2e6898d2-7bd5-11e7-8216-6fd5f71faa87.jpg
+
+
+
+
+
 
 
 
