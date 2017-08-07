@@ -5,8 +5,7 @@ The Client part is in the Other source folders
 
 To setup a server, extract the Server folder and the main function is in package MyServer =>CallMyServer.java
 The rules are defined in res/server/
-
-Screenshot of Server UI:![ScreenShot](https://user-images.githubusercontent.com/18246639/29037193-2e6898d2-7bd5-11e7-8216-6fd5f71faa87.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/18246639/29037193-2e6898d2-7bd5-11e7-8216-6fd5f71faa87.jpg)
 
 
 
@@ -15,8 +14,7 @@ To run a client, server has to been setup beforehand, and player has to be creat
 The main function is in the source folder UtilFrame, package TestRun =>test.java
 Be aware that the server IP is define in source folder Client(default 127.0.0.1), package MyClient=> MyClient.java
 Modification has to be made if server is setup in another IP 
-
-Screenshot of Client UI:![ScreenShot](https://user-images.githubusercontent.com/18246639/29037194-2e9acaaa-7bd5-11e7-9870-c3367792fbb0.jpg)
-Screenshot of Client UI:![ScreenShot](https://user-images.githubusercontent.com/18246639/29037195-2eac4848-7bd5-11e7-8003-e32de4fb9e8a.jpg)
-Screenshot of Client UI:![ScreenShot](https://user-images.githubusercontent.com/18246639/29037196-2eac86f0-7bd5-11e7-81e6-1cb40e04d508.jpg)
-Screenshot of Client UI:![ScreenShot](https://user-images.githubusercontent.com/18246639/29037197-2eb3fc0a-7bd5-11e7-8943-4b12fc41d414.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/18246639/29037194-2e9acaaa-7bd5-11e7-9870-c3367792fbb0.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/18246639/29037195-2eac4848-7bd5-11e7-8003-e32de4fb9e8a.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/18246639/29037196-2eac86f0-7bd5-11e7-81e6-1cb40e04d508.jpg)
+![ScreenShot](https://user-images.githubusercontent.com/18246639/29037197-2eb3fc0a-7bd5-11e7-8943-4b12fc41d414.jpg)
